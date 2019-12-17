@@ -1,2 +1,4 @@
-# estudos_ruby
-Exercícios de Ruby 
+# Estudos Ruby
+Exercícios de Ruby
+
+Repositório de conhecimento pessoal
